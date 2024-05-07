@@ -17,13 +17,11 @@
 <p align="left">
   Я начинающий AQA на Python. Мой путь в it начался со Яндекс Практикума, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Java, попробовал свои силы в web devolepment, но больше всего меня зацепила AQA! С ноября 2023 года по апрель 2024 я изучал QA manual на курсах Яндекс Практикум. В настоящий момент мое обучение на QA manual курсах завершено и я пошел дальше на курс Автоматизатор тестирования на Python от Яндекс Практикум и на курс QA.GURU | Python | Автоматизация тестирования да я прохожу 2 курса одновременно!!
   <br>
-  <br>- 📚 Завершил 2 курса по QA manual (Яндекс Практикум и Be - tester!)
-  <br>- 🌱 I’m currently learning test automation with Python (Яндекс Практикум и QA-Guru!)
-  <br>- 👀 I’m interested in QA and AI
-  <br>- 💞️ I’m looking to collaborate on Welltory
-  <br>- 📫 How to reach me ilyasoveduard@gmail.com
-  <br>- 😄 Pronouns: Hi/him
-  <br>- ⚡ Important fact: I love to travel and I am a professional kitesurfer
+  <br>- 📚 I completed the QA Engineer Professional Training Courses (Yandex Practicum)
+  <br>- 🌱 I’m currently learning test automation with Python (Yandex Practicum)
+  <br>- 👀 I’m interested in AI industry and AI-assotioated things
+  <br>- 💞️ I’m looking for collaboration with Welltory
+  <br>- ⚡ I love to travel and I am a professional kitesurfer
 </p>
 
 ###
