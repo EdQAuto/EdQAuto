@@ -24,9 +24,6 @@
   <br>- 📫 How to reach me ilyasoveduard@gmail.com
   <br>- 😄 Pronouns: Hi/him
   <br>- ⚡ Important fact: I love to travel and I am a professional kitesurfer
-
-
-  
 </p>
 
 ###
@@ -34,8 +31,6 @@
 <p align="center">
  <img width="700" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-
 
 ###
 
