@@ -63,6 +63,9 @@
   <a href="https://t.me/ED_QA_engineer" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
+  <a href="https://gitlab.com/EdQAuto" target="_blank">
+    <img src="https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo"  />
+  </a>
 </div>
 
 ###
