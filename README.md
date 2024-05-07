@@ -6,11 +6,11 @@
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Эдуард!</h1>
+<h1 align="center">Hi👋 I’m Ed!</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👩‍💻  About my</h3>
 
 ###
 
