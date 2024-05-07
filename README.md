@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Steck:</h3>
 
 ###
 
@@ -55,7 +55,7 @@
 </div>
 
 ###
-<h3 align="left">:telephone_receiver: Контакты:</h3>
+<h3 align="left">:telephone_receiver: Contacts:</h3>
 
 <div>
   <a href="https://t.me/ED_QA_engineer" target="_blank">
