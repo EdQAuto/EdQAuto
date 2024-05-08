@@ -20,7 +20,7 @@
   <br>- 📚 I completed the QA Engineer Professional Training Courses (Yandex Practicum)
   <br>- 🌱 I’m currently learning test automation with Python (Yandex Practicum)
   <br>- 👀 I’m interested in AI industry and AI-assotioated things
-  <br>- 💞️ I’m looking for collaboration with Welltory
+  <br>- 💞️ I’m looking for collaboration with <a href="https://welltory.com/" target="_blank">Welltory</a>
   <br>- ⚡ I love to travel and I am a professional kitesurfer
 </p>
 
