@@ -27,7 +27,7 @@
 ###
 
 <p align="center">
- <img width="700" src="assets/github-snake.svg" alt="snake"/>
+ <img width="700" src="github-snake.svg" alt="snake"/>
 </p>
 
 ###
