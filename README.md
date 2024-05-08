@@ -1,8 +1,8 @@
 <br clear="both">
 
-<div align="center">
-  <img height="300" width="1200" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif"  />
-</div>
+<p align="center">
+ <img width="700" src="github-snake.svg" alt="snake"/>
+</p>
 
 ###
 
@@ -22,12 +22,6 @@
   <br>- 👀 I’m interested in AI industry and AI-assotioated things
   <br>- 💞️ I’m looking for collaboration with <a href="https://welltory.com/" target="_blank">Welltory</a>
   <br>- ⚡ I love to travel and I am a professional kitesurfer
-</p>
-
-###
-
-<p align="center">
- <img width="700" src="github-snake.svg" alt="snake"/>
 </p>
 
 ###
