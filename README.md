@@ -15,7 +15,7 @@
 ###
 
 <p align="left">
-  I'm QA Engineer!
+  I'm QA Engineer with experience in testing web and mobile versions of applications. Excellent communication skills and healthy perfectionism help me in my work to ensure high quality and reliability of software products.
   <br>
   <br>- 📚 I completed the QA Engineer Professional Training Courses (Yandex Practicum)
   <br>- 🌱 I’m currently learning test automation with Python (Yandex Practicum)
